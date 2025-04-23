@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+label {
+  font-size: 1.2rem;
+  margin-right: 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #61dafb;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
+
+.error {
+  color: red;
+  margin-top: 20px;
+}
+
+.result {
+  margin-top: 20px;
+  color: green;
+}
+
+.result h2 {
+  margin-bottom: 10px;
+}
